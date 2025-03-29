@@ -1,0 +1,1 @@
+print ("Huevos a todos")
